@@ -1,0 +1,13 @@
+@use 'variables';
+
+body{
+    background-color: variables.$color2;
+}
+
+div{
+    background-color: variables.$color1;
+}
+
+form{
+    Color: variables.$color3;
+}
